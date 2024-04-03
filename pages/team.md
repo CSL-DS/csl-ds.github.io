@@ -1,5 +1,5 @@
 ---
-layout: team
-title: Team
-permalink: /team/
+layout: members
+title: Members
+permalink: /members/
 ---
