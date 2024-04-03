@@ -3,7 +3,7 @@
 
 # Columns
 columns:
-  - description: "Links:"
+  # - description: "Links:"
     links:
     - text: Graduate School of Data Science at CNU
       href: https://ds.jnu.ac.kr/ds/index.do
