@@ -1,6 +1,4 @@
 # Project team members listed below will appear on the /team page
-
-
 - name: Inho Hong
   role: Director / Assistant Professor
   image: assets/images/team-inho-hong.jpg
@@ -42,7 +40,7 @@
   github: 
   twitter: 
 
-  - name: 김상보
+- name: 김상보
   role: MS Student / Part-Time
   image: 
   description: >
@@ -52,7 +50,7 @@
   github: 
   twitter: 
 
-  - name: 신명진
+- name: 신명진
   role: MS Student / Part-Time
   image: 
   description: >
@@ -62,7 +60,7 @@
   github: 
   twitter: 
 
-  - name: 이도현
+- name: 이도현
   role: MS Student / Part-Time
   image: 
   description: >
