@@ -21,12 +21,12 @@ Oral talks
 <br /> 
 <br />
 
-### Before 2023
-Invited talks
+## Before 2023
+### Invited talks
 -----
 1. **I. Hong**, "Complex interplay between socio-spatial components of cities", *2021 Korean Physical Society Fall Meeting*, Oct 20, 2021 (**Young Statistical Physicist Award Lecture**).
 
-Oral talks
+### Oral talks
 -----
 1. **I. Hong**, L. N. Ferreira, A. Rutherford, and M. Cebrian, "Assessing the impact of protests on the COVID-19 spread", *Conference on Complex Systems 2022*, Oct 21, 2022.
 
@@ -80,7 +80,7 @@ Oral talks
 
 1. **I. Hong** and W.-S. Jung, "Intra-city Bus Network in Korean Mid-size Cities", *Econophysics Colloquium 2013 & Asia Pacific Econophysics Conference 2013*, Jul 30, 2013.
 
-Posters
+### Posters
 -----
 1. O.-H. Kwon, D. Lee, **I. Hong**, J. Park, W.-S. Jung, and H. Youn, "Urban mobility potential explained by socioeconomic status", *8th International Conference on Computational Social Science (IC2S2)*, Jul 19-22, 2022.
 
