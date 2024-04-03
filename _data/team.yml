@@ -1,74 +1,73 @@
 # Project team members listed below will appear on the /team page
 
-- text : Director 
-  - name: Inho Hong
-    role: Assistant Professor
-    image: assets/images/team-inho-hong.jpg
-    description: >
-      description
-    orcid: 
-    email: ihong@jnu.ac.kr
-    github: inhohong
-    twitter: Hong_Inho
 
-- text: Full-Time Students
-  - name: Hyeong-Jae Lee
-    role: MS Student
-    image: 
-    description: >
-      description
-    orcid: 
-    email: 
-    github: 
-    twitter: 
+- name: Inho Hong
+  role: Director / Assistant Professor
+  image: assets/images/team-inho-hong.jpg
+  description: >
+    description
+  orcid: 
+  email: ihong@jnu.ac.kr
+  googlescholar: googlescholar_username
+  github: inhohong
+  twitter: Hong_Inho
 
-  - name: 정현주
-    role: MS Student
-    image: 
-    description: >
-      description
-    orcid: 
-    email: 
-    github: 
-    twitter: 
+- name: Hyeong-Jae Lee
+  role: MS Student / Full-Time
+  image: 
+  description: >
+    description
+  orcid: 
+  email: 
+  github: 
+  twitter: 
 
-- text: Part-Time Students
-  - name: 고우리
-    role: MS Student
-    image: 
-    description: >
-      description
-    orcid: 
-    email: 
-    github: 
-    twitter: 
+- name: 정현주
+  role: MS Student / Full-Time
+  image: 
+  description: >
+    description
+  orcid: 
+  email: 
+  github: 
+  twitter: 
 
-    - name: 김상보
-    role: MS Student
-    image: 
-    description: >
-      description
-    orcid: 
-    email: 
-    github: 
-    twitter: 
-  
-    - name: 신명진
-    role: MS Student
-    image: 
-    description: >
-      description
-    orcid: 
-    email: 
-    github: 
-    twitter: 
-  
-    - name: 이도현
-    role: MS Student
-    image: 
-    description: >
-      description
-    orcid: 
-    email: 
-    github: 
-    twitter: 
+- name: 고우리
+  role: MS Student / Part-Time
+  image: 
+  description: >
+    description
+  orcid: 
+  email: 
+  github: 
+  twitter: 
+
+  - name: 김상보
+  role: MS Student / Part-Time
+  image: 
+  description: >
+    description
+  orcid: 
+  email: 
+  github: 
+  twitter: 
+
+  - name: 신명진
+  role: MS Student / Part-Time
+  image: 
+  description: >
+    description
+  orcid: 
+  email: 
+  github: 
+  twitter: 
+
+  - name: 이도현
+  role: MS Student / Part-Time
+  image: 
+  description: >
+    description
+  orcid: 
+  email: 
+  github: 
+  twitter: 
