@@ -3,7 +3,7 @@ This is the repository for the GitHub Page for Computational Social Science and 
 
 ## Usage
 
-The basic structure of this website was forked from the [GloBAM GitHub](https://github.com/enram/globam.science). This website makes use of the static website generator [Jekyll](https://jekyllrb.com/) and the [Petridish](https://github.com/peterdesmet/petridish) theme. **Each commit to `main` will automatically trigger a new build on GitHub Pages.** There is no need to build the site locally, but you can by installing Jekyll and running `bundle exec jekyll serve`.
+The basic structure of this website is based on the [GloBAM GitHub](https://github.com/enram/globam.science). This website makes use of the static website generator [Jekyll](https://jekyllrb.com/) and the [Petridish](https://github.com/peterdesmet/petridish) theme. **Each commit to `main` will automatically trigger a new build on GitHub Pages.** There is no need to build the site locally, but you can by installing Jekyll and running `bundle exec jekyll serve`.
 
 ## Repo structure
 
