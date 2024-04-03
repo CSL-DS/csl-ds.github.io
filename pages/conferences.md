@@ -17,10 +17,10 @@ Oral talks
 <br /> 
 <br />
 
-# Before 2023
+## Before 2023
 
-Invited talks
-------
+### Invited talks
+
 1. **I. Hong**, "Complex interplay between socio-spatial components of cities", *2021 Korean Physical Society Fall Meeting*, Oct 20, 2021 (**Young Statistical Physicist Award Lecture**).
 
 Oral talks
