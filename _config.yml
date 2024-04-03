@@ -1,12 +1,12 @@
 # SITE SETTINGS
-title: GloBAM
-author: GloBAM partners
+title: CSL@CNU
+author: CSL
 
 # SOCIAL PROFILES
 social:
-  email: globam@vogelwarte.ch
-  twitter: globam_net
-  github: enram
+  email: ihong@jnu.ac.kr
+  twitter: 
+  github: csl-ds
 
 # THEME SETTINGS
 theme: minima # Fallback theme
