@@ -6,12 +6,16 @@
   href: /research/
 - text: Members
   href: /member/
-- text: Output
-  menu:
-  - text: Publications
-    href: /publication/
-  - text: Conferences
-    href: /conference/
+- text: Publications
+  href: /publication/
+- text: Conferences
+  href: /conference/
+# - text: Output
+#   menu:
+#   - text: Publications
+#     href: /publication/
+#   - text: Conferences
+#     href: /conference/
   # - text: Outreach
     # href: /outreach/
 #  - text: Datasets
