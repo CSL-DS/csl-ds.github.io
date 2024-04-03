@@ -1,6 +1,5 @@
 ---
 title: Contact
-background: 
 permalink: /contact/
 toc: true
 ---
