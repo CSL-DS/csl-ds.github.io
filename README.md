@@ -1,4 +1,4 @@
-## CSL @ CNU
+## CSL@CNU
 This is the repository for the GitHub Page for Computational Social Science and Complex Systems Lab at Chonnam National University.
 
 ## Usage
