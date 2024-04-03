@@ -2,25 +2,25 @@
 
 - text: Home
   href: /
-- text: About
-  href: /about/
-- text: Team
-  href: /team/
+- text: Research
+  href: /research/
+- text: Members
+  href: /member/
 - text: Output
   menu:
   - text: Publications
     href: /publications/
-  - text: Meetings
-    href: /meetings/
-  - text: Outreach
-    href: /outreach/
+  - text: Conferences
+    href: /conferences/
+  # - text: Outreach
+    # href: /outreach/
 #  - text: Datasets
 #    href: /datasets/
-  - text: Press coverage
-    href: /press-coverage/
-  - text: Software
-    href: /software/
-- text: News
-  href: /news/
-- text: IRAC 2022
-  href: /irac-2022/
+  # - text: Press coverage
+    # href: /press-coverage/
+  # - text: Software
+    # href: /software/
+# - text: News
+  # href: /news/
+- text: Contact
+  href: /contact/
