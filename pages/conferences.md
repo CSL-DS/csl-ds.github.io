@@ -8,7 +8,8 @@ Invited talks
 ------
 1. **I. Hong**, "Unraveling employment growth and human mobility in cities with scaling relations", *STATPHYS28 Satellite Meeting: New Frontiers in Complex Networks*, Aug 2, 2023.
 1. **I. Hong**, "Explaining complex interactions in socio-spatial systems with data science", *2023 Korean Physical Society Spring Meeting*, Apr 19, 2023.
-<br />  
+<br />
+
 Oral talks
 ------
 1. H. Lee, **I. Hong**, "Quantifying the influence of vocational education with text embedding and similarity-based networks", *2023 Korea Academy of Complexity Studies Conference*, Dec 16, 2023.
