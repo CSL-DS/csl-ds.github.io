@@ -1,7 +1,8 @@
 # Project team members listed below will appear on the /team page
 
+- class: Director 
 - name: Inho Hong
-  role: Director / Assistant Professor
+  role: Assistant Professor
   image: assets/images/team-inho-hong.jpg
   description: >
     description
@@ -10,7 +11,59 @@
   github: inhohong
   twitter: Hong_Inho
 
+- class: Full-Time Students
 - name: Hyeong-Jae Lee
+  role: MS Student
+  image: 
+  description: >
+    description
+  orcid: 
+  email: 
+  github: 
+  twitter: 
+
+- name: 정현주
+  role: MS Student
+  image: 
+  description: >
+    description
+  orcid: 
+  email: 
+  github: 
+  twitter: 
+
+- class: Part-Time Students
+- name: 고우리
+  role: MS Student
+  image: 
+  description: >
+    description
+  orcid: 
+  email: 
+  github: 
+  twitter: 
+
+  - name: 김상보
+  role: MS Student
+  image: 
+  description: >
+    description
+  orcid: 
+  email: 
+  github: 
+  twitter: 
+
+  - name: 신명진
+  role: MS Student
+  image: 
+  description: >
+    description
+  orcid: 
+  email: 
+  github: 
+  twitter: 
+
+  - name: 이도현
   role: MS Student
   image: 
   description: >
