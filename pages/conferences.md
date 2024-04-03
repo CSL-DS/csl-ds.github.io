@@ -8,14 +8,14 @@ Invited talks
 ------
 1. **I. Hong**, "Unraveling employment growth and human mobility in cities with scaling relations", *STATPHYS28 Satellite Meeting: New Frontiers in Complex Networks*, Aug 2, 2023.
 1. **I. Hong**, "Explaining complex interactions in socio-spatial systems with data science", *2023 Korean Physical Society Spring Meeting*, Apr 19, 2023.
-
+\
 Oral talks
 ------
 1. H. Lee, **I. Hong**, "Quantifying the influence of vocational education with text embedding and similarity-based networks", *2023 Korea Academy of Complexity Studies Conference*, Dec 16, 2023.
 1. D. Lee, O.-H. Kwon, **I. Hong**, J. Park, W.-S. Jung, H. Youn, "Mobility Connectedness: Uncovering socioeconomic bias and connectivity in urban mobility", *9th International Conference on Computational Social Science (IC2S2)*, Jul 18, 2023.
-1. O.-H. Kwon, D. Lee, **I. Hong**, J. Park, H. Youn, W.-S. Jung, "Mobility potential as a window to explore social capital in urban systems", *9th International Conference on Computational Social Science (IC2S2)*, Jul 18, 2023.\
-
-
+1. O.-H. Kwon, D. Lee, **I. Hong**, J. Park, H. Youn, W.-S. Jung, "Mobility potential as a window to explore social capital in urban systems", *9th International Conference on Computational Social Science (IC2S2)*, Jul 18, 2023.
+\
+\
 # Before 2023
 
 Invited talks
