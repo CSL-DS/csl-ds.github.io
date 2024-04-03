@@ -9,9 +9,9 @@
 - text: Output
   menu:
   - text: Publications
-    href: /publications/
+    href: /publication/
   - text: Conferences
-    href: /conferences/
+    href: /conference/
   # - text: Outreach
     # href: /outreach/
 #  - text: Datasets
