@@ -4,13 +4,12 @@ background: https://images.unsplash.com/photo-1529119368496-2dfda6ec2804?ixlib=r
 permalink: /conferences/
 toc: true
 ---
-Invited talks
-------
+
+### Invited talks
 1. **I. Hong**, "Unraveling employment growth and human mobility in cities with scaling relations", *STATPHYS28 Satellite Meeting: New Frontiers in Complex Networks*, Aug 2, 2023.
 1. **I. Hong**, "Explaining complex interactions in socio-spatial systems with data science", *2023 Korean Physical Society Spring Meeting*, Apr 19, 2023.
 
-Oral talks
-------
+### Oral talks
 1. H. Lee, **I. Hong**, "Quantifying the influence of vocational education with text embedding and similarity-based networks", *2023 Korea Academy of Complexity Studies Conference*, Dec 16, 2023.
 1. D. Lee, O.-H. Kwon, **I. Hong**, J. Park, W.-S. Jung, H. Youn, "Mobility Connectedness: Uncovering socioeconomic bias and connectivity in urban mobility", *9th International Conference on Computational Social Science (IC2S2)*, Jul 18, 2023.
 1. O.-H. Kwon, D. Lee, **I. Hong**, J. Park, H. Youn, W.-S. Jung, "Mobility potential as a window to explore social capital in urban systems", *9th International Conference on Computational Social Science (IC2S2)*, Jul 18, 2023.
@@ -18,13 +17,10 @@ Oral talks
 <br />
 
 ## Before 2023
-
 ### Invited talks
-
 1. **I. Hong**, "Complex interplay between socio-spatial components of cities", *2021 Korean Physical Society Fall Meeting*, Oct 20, 2021 (**Young Statistical Physicist Award Lecture**).
 
-Oral talks
-------
+### Oral talks
 1. **I. Hong**, L. N. Ferreira, A. Rutherford, and M. Cebrian, "Assessing the impact of protests on the COVID-19 spread", *Conference on Complex Systems 2022*, Oct 21, 2022.
 1. **I. Hong**, L. N. Ferreira, A. Rutherford, and M. Cebrian, "Protest-driven epidemics during the COVID-19 pandemic", *Complex Networks 2021*, Dec 1, 2021.
 1. **I. Hong**, L. N. Ferreira, A. Rutherford, and M. Cebrian, "Epidemic-driven protests and protest-driven epidemics", *7th International Conference on Computational Social Science (IC2S2)*, Jul 30, 2021.
@@ -52,8 +48,7 @@ Oral talks
 1. **I. Hong** and W.-S. Jung, "Intra-City Bus Network Analysis on the Korean Cities for Understanding Urban Structures", *The 17th Workshop for Statistical Physics*, Nov 2, 2013.
 1. **I. Hong** and W.-S. Jung, "Intra-city Bus Network in Korean Mid-size Cities", *Econophysics Colloquium 2013 & Asia Pacific Econophysics Conference 2013*, Jul 30, 2013.
 
-Posters
-------
+### Posters
 1. O.-H. Kwon, D. Lee, **I. Hong**, J. Park, W.-S. Jung, and H. Youn, "Urban mobility potential explained by socioeconomic status", *8th International Conference on Computational Social Science (IC2S2)*, Jul 19-22, 2022.
 1. **I. Hong**, M. Kwon, J. Kim, S. Na, and W.-S. Jung, "Urban scaling and transition in Korean economy", *2020 Korean Physical Society Fall Meeting*, Nov 4-6, 2020.
 1. O.-H. Kwon, **I. Hong**, W.-S. Jung, and H.-H. Jo, "Explaining the varying exponent of gravity model on urban landscapes", *2020 Korean Physical Society Fall Meeting*, Nov 4-6, 2020.
