@@ -3,33 +3,11 @@
 
 # Columns
 columns:
-  - description: "Project partners:"
+  - description: "Links:"
     links:
-    - text: Swiss Ornithological Institute
-      href: https://www.vogelwarte.ch/en/home/
+    - text: Graduate School of Data Science at CNU
+      href: https://ds.jnu.ac.kr/ds/index.do
       new_window: true
-    - text: Centre for Ecology and Conservation, University of Exeter
-      href: https://biosciences.exeter.ac.uk/cec/
-      new_window: true
-    - text: Cornell Lab of Ornithology
-      href: https://www.birds.cornell.edu/
-      new_window: true
-    - text: Institute for Biodiversity and Ecosystem Dynamics, University of Amsterdam
-      href: https://ibed.uva.nl/
-      new_window: true
-    - text: Open science lab for biodiversity, Research Institute for Nature and Forest (INBO)
-      href: https://oscibio.inbo.be/
-      new_window: true
-    - text: Radar and Space Technology, Finnish Meteorological Institute
-      href: https://en.ilmatieteenlaitos.fi/radar-and-space-technology
-      new_window: true
-
-  - description: This project is funded through the [2017-2018 Belmont Forum and BiodivERsA joint 
-      call](https://www.biodiversa.org/1400) for research proposals, under the BiodivScen ERA-Net 
-      COFUND programme, and with the funding organisations Swiss National Science Foundation 
-      (`SNF 31BD30_184120`), Belgian Federal Science Policy Office (`BelSPO BR/185/A1/GloBAM-BE`), 
-      Netherlands Organisation for Scientific Research (`NWO E10008`), Academy of Finland 
-      (`aka 326315`) and National Science Foundation (`NSF 1927743`).
 
 # License
 license: >
