@@ -9,6 +9,7 @@ toc: true
 ## 2023
 1. O.-H. Kwon, **I. Hong**, W.-S. Jung, H.-H. Jo, "Multiple gravity laws for human mobility within cities", *EPJ Data Science* **12**, 57 (2023). [[paper]](https://doi.org/10.1140/epjds/s13688-023-00438-x)
 <br />
+<br />
 
 ## Before 2023
 
