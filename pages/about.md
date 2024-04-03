@@ -1,6 +1,6 @@
 ---
-title: About
-permalink: /about/
+title: research
+permalink: /research/
 ---
 
 Our fundamental objectives are to **monitor** the aerial migrations of animals (birds, insects and bats) using weather radar networks, **understand** global patterns in the intensity, routes and timing of aerial migrations, and to **forecast** how these migrations are likely to respond to global change:
