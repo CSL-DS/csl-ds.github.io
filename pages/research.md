@@ -14,7 +14,7 @@ Urban data science explains urban systems and phenomena with micro-level data.
 _(a) Industry structure of the largest US cities [(Sci. Adv., 2020)](https://advances.sciencemag.org/content/6/34/eaba4934), 
 (b) human mobility networks in five Korean cities [(Physica A, 2016)](http://www.sciencedirect.com/science/article/pii/S0378437116303235), and 
 (c) happiness and urban green space measured by satellite imagery [(EPJ DS, 2021)](https://doi.org/10.1140/epjds/s13688-021-00278-7)._
-
+<br />
 ## Bibliographic Analysis
 
 Bibliographic analysis allows explorations of knowledge.
@@ -22,7 +22,7 @@ Bibliographic analysis allows explorations of knowledge.
 ![bibliography](/assets/images/research-bibliography.png)
 _(a) International research collaboration by topics [(PLoS One, 2019)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0211963) and 
 (b) network of vocational education programs in Singapore quantified by BERT._
-
+<br />
 ## Network Science
 
 Network science describes real-world phenomena with underlying interactions.
