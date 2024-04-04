@@ -12,3 +12,5 @@ Research areas include but are not limited to:
 * **Urban data science**: Human mobility / Labor and industry / Sustainability
 * **Bibliography**: Publications / Human capital / Patents
 * **Network science**: Social & mass media / Epidemics / Spreading processes  
+
+![home](/assets/images/research-intro.jpg)
