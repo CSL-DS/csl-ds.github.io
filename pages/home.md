@@ -9,15 +9,6 @@ permalink: /
 **Computational Social Science and Complex Systems Lab (CSL)** is a research group at the Graduate School of Data Science [(link)](https://ds.jnu.ac.kr/ds/index.do) at Chonnam National University [(link)](https://global.jnu.ac.kr/jnumain_en.aspx), Korea. CSL pursues understanding and explanation of complex social systems with data science with a focus on urban data science, bibliographic analysis, and network science.
 
 Research areas include but are not limited to:
-* Urban data science
-  * Human mobility
-  * Labor and industry
-  * Sustainability
-* Bibliography
-  * Publications
-  * Human capital
-  * Patents
-* Network science
-  * Social / mass media
-  * Epidemics
-  * Spreading processes  
+* Urban data science: Human mobility / Labor and industry / Sustainability
+* Bibliography: Publications / Human capital / Patents
+* Network science: Social & mass media / Epidemics / Spreading processes  
