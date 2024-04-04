@@ -1,7 +1,7 @@
 ---
 title: Grant
 permalink: /grant/
-background: https://images.unsplash.com/photo-1470790376778-a9fbc86d70e2?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+background: https://images.unsplash.com/photo-1529119368496-2dfda6ec2804?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000
 ---
 
 ## Ongoing
