@@ -11,9 +11,9 @@ Our fundamental objectives are to blbla
 Urban data science explains urban systems and phenomena with micro-level data.
 
 ![urban](/assets/images/research-urban.png)
-_(a) Industry structure of the largest US cities [Sci. Adv., 2020](https://advances.sciencemag.org/content/6/34/eaba4934), 
-(b) Human mobility network in five Korean cities [Physica A, 2016](http://www.sciencedirect.com/science/article/pii/S0378437116303235), and 
-(c)_
+_(a) Industry structure of the largest US cities [(Sci. Adv., 2020)](https://advances.sciencemag.org/content/6/34/eaba4934), 
+(b) Human mobility network in five Korean cities [(Physica A, 2016)](http://www.sciencedirect.com/science/article/pii/S0378437116303235), and 
+(c) Happiness and urban green space measured by satellite imagery [(EPJ DS, 2021)](https://doi.org/10.1140/epjds/s13688-021-00278-7)._
 
 ## Bibliographic Analysis
 
