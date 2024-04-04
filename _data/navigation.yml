@@ -26,7 +26,7 @@
     # href: /press-coverage/
   # - text: Software
     # href: /software/
-# - text: News
-  # href: /news/
+- text: News
+  href: /news/
 - text: Contact
   href: /contact/
