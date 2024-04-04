@@ -14,7 +14,7 @@ remote_theme: peterdesmet/petridish@3.0
 posts_on_home: 0
 tweets_on_home: false
 archive_permalink: /news/
-github_edit: true
+github_edit: false
 logo: 
 colors:
   links: "#93c243"
