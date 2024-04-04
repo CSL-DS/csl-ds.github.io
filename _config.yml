@@ -17,9 +17,12 @@ archive_permalink: /news/
 github_edit: false
 logo: 
 colors:
-  links: "#93c243"
-  banner: "#93c243"
-  footer: "#513266"
+  # links: "#93c243"
+  # banner: "#93c243"
+  # footer: "#513266"
+  links: "#007bff"                      # Color for links: use a readable color that contrasts well with dark text
+  banner: "#007bff"                     # Background color for page banners: use color that contrasts well with white
+  footer: "#6c757d"                     # Background color for footer: use color that contrasts well wi
 font_serif: false
 
 # BUILD SETTINGS
