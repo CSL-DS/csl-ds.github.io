@@ -8,24 +8,12 @@
   href: /team/
 - text: Publications
   href: /publication/
-# - text: Conferences
-#   href: /conference/
 - text: Other Output
   menu:
-#   - text: Publications
-#     href: /publication/
   - text: Presentations
     href: /conference/
   - text: Grants
     href: /grant/
-  # - text: Outreach
-    # href: /outreach/
-#  - text: Datasets
-#    href: /datasets/
-  # - text: Press coverage
-    # href: /press-coverage/
-  # - text: Software
-    # href: /software/
 - text: News
   href: /news/
 - text: Contact
