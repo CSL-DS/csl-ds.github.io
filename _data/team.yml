@@ -3,7 +3,8 @@
   role: Director / Assistant Professor
   image: assets/images/team-inho-hong.jpg
   description: >
-    description
+    I am an Assistant professor at Chonnam National University and Associate Research Scientist at Max Planck Institute for Human Development. 
+    Find more information at [https://inhohong.github.io](https://inhohong.github.io).
   orcid: 0000-0002-8069-6110
   email: ihong@jnu.ac.kr
   googlescholar: kmN6l-AAAAAJ
@@ -11,7 +12,7 @@
   twitter: Hong_Inho
 
 - name: Hyeong-Jae Lee
-  role: MS Student / Full-Time
+  role: Master''s Student / Full-Time
   image: 
   description: >
     description
@@ -21,7 +22,7 @@
   twitter: 
 
 - name: 정현주
-  role: MS Student / Full-Time
+  role: Master''s Student / Full-Time
   image: 
   description: >
     description
@@ -31,7 +32,7 @@
   twitter: 
 
 - name: 고우리
-  role: MS Student / Part-Time
+  role: Master''s Student / Part-Time
   image: 
   description: >
     description
@@ -41,7 +42,7 @@
   twitter: 
 
 - name: 김상보
-  role: MS Student / Part-Time
+  role: Master''s Student / Part-Time
   image: 
   description: >
     description
@@ -51,7 +52,7 @@
   twitter: 
 
 - name: 신명진
-  role: MS Student / Part-Time
+  role: Master''s Student / Part-Time
   image: 
   description: >
     description
@@ -61,7 +62,7 @@
   twitter: 
 
 - name: 이도현
-  role: MS Student / Part-Time
+  role: Master''s Student / Part-Time
   image: 
   description: >
     description
