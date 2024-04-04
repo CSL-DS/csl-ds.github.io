@@ -12,19 +12,22 @@ Urban data science explains urban systems and phenomena with micro-level data.
 
 ![urban](/assets/images/research-urban.png)
 _(a) Industry structure of the largest US cities [(Sci. Adv., 2020)](https://advances.sciencemag.org/content/6/34/eaba4934), 
-(b) Human mobility network in five Korean cities [(Physica A, 2016)](http://www.sciencedirect.com/science/article/pii/S0378437116303235), and 
-(c) Happiness and urban green space measured by satellite imagery [(EPJ DS, 2021)](https://doi.org/10.1140/epjds/s13688-021-00278-7)._
+(b) human mobility networks in five Korean cities [(Physica A, 2016)](http://www.sciencedirect.com/science/article/pii/S0378437116303235), and 
+(c) happiness and urban green space measured by satellite imagery [(EPJ DS, 2021)](https://doi.org/10.1140/epjds/s13688-021-00278-7)._
 
 ## Bibliographic Analysis
 
 Bibliographic analysis allows explorations of knowledge.
 
 ![bibliography](/assets/images/research-bibliography.png)
-_Average intensities of bird migration, inferred from weather radar data, across a) Europe over 3 weeks in autumn 2016 (from [Nilsson et al. 2019](https://doi.org/10.1111/ecog.04003)), and b) during spring across the US between 1995-2017 (from [Horton et al. 2019](https://doi.org/10.1002/fee.2029))._
+_(a) International research collaboration by topics [(PLoS One, 2019)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0211963) and 
+(b) network of vocational education programs in Singapore quantified by BERT._
 
 ## Network Science
 
 Network science describes real-world phenomena with underlying interactions.
 
 ![network](/assets/images/research-network.png)
-_Simulated spring migrations of Afro-Palearctic migratory birds, from preliminary behaviour-based models developed within GloBAM._
+_(a) Small-world network of global protests [(Sci. Rep., 2021)](https://doi.org/10.1038/s41598-021-98628-y), 
+(b) heterogeneity in information spreading by polarization [(Appl. Net. Sci., 2021)](https://appliednetsci.springeropen.com/articles/10.1007/s41109-021-00356-9), and 
+(c) estimation of the COVID-19 spread by protests._
