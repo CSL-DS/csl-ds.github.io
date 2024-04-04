@@ -8,14 +8,16 @@
   href: /team/
 - text: Publications
   href: /publication/
-- text: Talks
-  href: /conference/
-# - text: Output
-#   menu:
+# - text: Conferences
+#   href: /conference/
+- text: Other Output
+  menu:
 #   - text: Publications
 #     href: /publication/
-#   - text: Conferences
-#     href: /conference/
+  - text: Presentations
+    href: /conference/
+  - text: Grants
+    href: /grant/
   # - text: Outreach
     # href: /outreach/
 #  - text: Datasets
