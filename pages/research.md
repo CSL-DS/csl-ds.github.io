@@ -9,9 +9,11 @@ background: https://images.unsplash.com/photo-1542382257-80dedb725088?q=80&w=100
 _Urban data science explains urban systems and phenomena with micro-level data_
 
 ![urban](/assets/images/research-urban.jpg)
+<div style="text-align: left">
 *(a) Industry structure of the largest US cities [(Sci. Adv., 2020)](https://advances.sciencemag.org/content/6/34/eaba4934), 
 (b) human mobility networks in five Korean cities [(Physica A, 2016)](http://www.sciencedirect.com/science/article/pii/S0378437116303235), and 
 (c) happiness and urban green space measured by satellite imagery [(EPJ DS, 2021)](https://doi.org/10.1140/epjds/s13688-021-00278-7)*
+</div>
 <br />
 ## Bibliographic Analysis
 
