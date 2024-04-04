@@ -15,8 +15,8 @@
 - name: Hyeong-Jae Lee (이형재)
   role: Master's Student / Full-Time
   image: 
-  description: >
-    description
+  description: |
+    add description
   orcid: 
   email: 
   github: 
@@ -25,8 +25,8 @@
 - name: 정현주
   role: Master's Student / Full-Time
   image: 
-  description: >
-    description
+  description: |
+    add description
   orcid: 
   email: 
   github: 
@@ -35,8 +35,8 @@
 - name: 고우리
   role: Master's Student / Part-Time
   image: 
-  description: >
-    description
+  description: |
+    add description
   orcid: 
   email: 
   github: 
@@ -45,8 +45,8 @@
 - name: 김상보
   role: Master's Student / Part-Time
   image: 
-  description: >
-    description
+  description: |
+    add description
   orcid: 
   email: 
   github: 
@@ -55,8 +55,8 @@
 - name: 신명진
   role: Master's Student / Part-Time
   image: 
-  description: >
-    description
+  description: |
+    add description
   orcid: 
   email: 
   github: 
@@ -65,7 +65,7 @@
 - name: 이도현
   role: Master's Student / Part-Time
   image: 
-  description: >
+  description: |
     description
   orcid: 
   email: 
