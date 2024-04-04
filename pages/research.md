@@ -15,7 +15,7 @@ _(a) Industry structure of the largest US cities [(Sci. Adv., 2020)](https://adv
 <br />
 ## Bibliographic Analysis
 
-### _Bibliographic analysis allows explorations of knowledge._
+### _Bibliographic analysis allows explorations of knowledge through text data._
 
 ![bibliography](/assets/images/research-bibliography.jpg)
 _(a) International research collaboration by topics [(PLoS One, 2019)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0211963) and 
