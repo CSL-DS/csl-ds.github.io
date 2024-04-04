@@ -10,7 +10,7 @@ Our fundamental objectives are to blbla
 
 Urban data science explains urban systems and phenomena with micro-level data.
 
-![species](/assets/images/research-urban.jpg)
+![species](/assets/images/research-urban.png)
 _We aim to use weather radars to monitor the movements of aerial migrants such as a) birds (image by Barth Bailey/Unsplash.com) and b) insects (image by aaabbbccc/Shutterstock.com)._
 
 ## Bibliographic Analysis
