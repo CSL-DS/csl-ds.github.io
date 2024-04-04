@@ -3,6 +3,7 @@ title: GloBAM wins Biodiversa Prize for Excellence and Impact
 background: /assets/backgrounds/2023-07-06-biodiversa-prize.png
 author: Peter Desmet
 tags: [prize]
+published: false
 ---
 
 We are very honoured to have received the [Biodiversa Prize for Excellence and Impact](https://www.biodiversa.eu/2023/07/06/biodiversa-prize-for-excellence-and-impact-2-new-videos/), together with the AlienScenarios project.

@@ -3,6 +3,7 @@ title: Bart Kranstauber joins our team
 description: 
 author: Bart Kranstauber
 tags: [team]
+published: false
 ---
 
 This summer I joined the [GloBAM team](/team/) as post-doctoral researcher at the [Institute for Biodiversity and Ecosystem Dynamics](https://ibed.uva.nl/) of the University of Amsterdam. Here I will investigate how the environment influences the migration of birds using weather radar. 

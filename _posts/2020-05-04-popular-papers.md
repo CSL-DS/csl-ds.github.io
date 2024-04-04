@@ -4,6 +4,7 @@ description: Our radar aeroecology papers are among most downloaded.
 background: /assets/backgrounds/2020-05-04-popular-papers.jpg
 author: Cecilia Nilsson
 tags: [papers]
+published: false
 ---
 
 Papers from the **special issue on radar aeroecology** was among the top 10% of most downloaded papers from the journal Ecography during 2018 and 2019. The special issue includes many GloBAM authors and covers everything from the history of radar aeroecology, to current methods used, implementations and future perspectives.

@@ -4,6 +4,7 @@ description: Making large spatial data sets accessible for dynamic visualization
 background: /assets/backgrounds/2022-01-21-starsTileServer.png
 author: Bart Kranstauber
 tags: [software]
+published: false
 ---
 
 New technologies were needed to address the challenge of visualizing large archives of weather radar data and bird specific products interactively. The goal of the R package [starsTileServer](https://cran.r-project.org/web/packages/starsTileServer/index.html) is to provide a simple way to add large data sets to a leaflet or shiny application.

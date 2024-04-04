@@ -4,6 +4,7 @@ description: Geographic barriers and season shape the nightly timing of avian mi
 background: /assets/backgrounds/2023-08-21-paper-phenology.jpg
 author: Bart Kranstauber
 tags: [papers]
+published: false
 ---
 
 During spring and fall billions of birds migrate through the night. It is widely recognized most nocturnal migrants start migrating around sunset. However, the timing of migration throughout the night has been studied less frequently. In [Kranstauber at al. (2023)](https://doi.org/10.1111/geb.13742), we analyze 3051 nights where migration was observed across 55 different weather radars in Europe. We find that most variation in the timing of migration throughout the night can be explained by an univariate axis. 

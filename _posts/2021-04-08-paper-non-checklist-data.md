@@ -4,6 +4,7 @@ description: Non-checklist data from ornithological citizen science portals prov
 background: /assets/backgrounds/2021-04-08-paper-non-checklist-data.png
 author: Nadja Weisshaupt
 tags: [papers]
+published: false
 ---
 
 Millions of bird observations have been entered on online bird portals in the past 20 years, such as the first in the portal history, the Swedish Artportalen, or the Finnish Tiira, the Swiss Ornitho and its European siblings. This wealth of observations - available either as checklists or arbitrary individual entries - could be potentially used for scientific research about avifaunal dynamics, as a complement to traditional monitoring programs through bird surveys and ringing by volunteers and scientists. While several hundred publications have been written on a variety of topics based on eBird checklists worldwide, unstructured non-checklist observations, which represent the vast majority of European bird observations, have received little attention and praise by academia.
