@@ -8,6 +8,9 @@ columns:
     - text: Graduate School of Data Science at CNU
       href: https://ds.jnu.ac.kr/ds/index.do
       new_window: true
+    - text: Complex Systems Research Exchange (CREx)
+      href: https://sites.google.com/view/cxrex
+      new_window: true
 
 # License
 license: >
