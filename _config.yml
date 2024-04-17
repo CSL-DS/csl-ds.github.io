@@ -1,3 +1,11 @@
+# Analytics
+analytics:
+  provider               : "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-44LHW7Y778"
+    anonymize_ip         : # true, false (default)
+
 # SITE SETTINGS
 title: CSL@CNU-GSDS
 author: CSL
