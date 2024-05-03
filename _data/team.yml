@@ -16,7 +16,7 @@
   role: Master's Student / Full-Time
   image: assets/images/team-hj-lee.png
   description: |
-    Interest : Human Capital, Text Mining, SDGs(Sustainable Developement Goals)
+    Interest : Human Capital, Text Mining, SDGs
   orcid: 
   email: lhch9550@gmail.com
   github: https://github.com/lhch9550
@@ -36,20 +36,21 @@
   role: Master's Student / Part-Time
   image: assets/images/team-wr-goh.jpg
   description: |
-    Reporter, KBC(Gwangju Broadcasting Company)<br />
+    KBC(Gwangju Broadcasting Company)<br />
     Interest : Journalism, Media, Broadcasting
   orcid: 
   email: wego@ikbc.co.kr
   github: 
   twitter: 
 
-- name: 김상보
+- name: Sang-Bo Kim (김상보)
   role: Master's Student / Part-Time
-  image: 
+  image: assets/images/team-wr-goh.jpg
   description: |
-    
+    Gwangju Urban Regeneration Center<br />
+    Interest : Urban Development, Urban Regeneration, Urban Planning
   orcid: 
-  email: 
+  email: sangbofficial@gmail.com
   github: 
   twitter: 
 
@@ -67,7 +68,7 @@
   role: Master's Student / Part-Time
   image: assets/images/team-dh-lee.png
   description: |
-    Data Analyst, Jeollanamdo Office of Education<br />
+    Jeollanamdo Office of Education<br />
     Interest : Sport Performance, Cross-Cultural Study, Text Mining, Bayesian Analysis, Data Visualization  
   orcid: 
   email: rimester@jnu.ac.kr
