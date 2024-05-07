@@ -16,7 +16,7 @@
   role: Master's Student / Full-Time
   image: assets/images/team-hj-lee.png
   description: |
-    Interest : Human Capital, Text Mining, SDGs
+    Interest: Human Capital, Text Mining, SDGs
   orcid: 
   email: lhch9550@gmail.com
   github: https://github.com/lhch9550
@@ -26,7 +26,7 @@
   role: Master's Student / Full-Time
   image: assets/images/team-hj-jeong.jpg
   description: |
-    Interest : International Cooperation, SDGs, Social Development, Sustainability
+    Interest: International Cooperation, SDGs, Social Development, Sustainability
   orcid: 
   email: jeonghj1385@gmail.com
   github: https://github.com/hjj978
@@ -37,7 +37,7 @@
   image: assets/images/team-wr-goh.jpg
   description: |
     KBC(Gwangju Broadcasting Company)<br />
-    Interest : Journalism, Media, Broadcasting
+    Interest: Journalism, Media, Broadcasting
   orcid: 
   email: wego@ikbc.co.kr
   github: 
@@ -48,19 +48,20 @@
   image: assets/images/team-sb-kim.jpg
   description: |
     Gwangju Urban Regeneration Center<br />
-    Interest : Urban Development, Urban Regeneration, Urban Planning
+    Interest: Urban Development, Urban Regeneration, Urban Planning
   orcid: 
   email: sangbofficial@gmail.com
   github: 
   twitter: 
 
-- name: 신명진
+- name: Myoung-Jin Shin (신명진)
   role: Master's Student / Part-Time
-  image: 
+  image: assets/images/team-mj-shin.jpg
   description: |
-    
+    inDJ Corp<br />
+    Interest: Human Mobility, Complex networks, Reinforcement Learning
   orcid: 
-  email: 
+  email: overtakedio@gmail.com
   github: 
   twitter: 
 
@@ -69,7 +70,7 @@
   image: assets/images/team-dh-lee.png
   description: |
     Jeollanamdo Office of Education<br />
-    Interest : Sport Performance, Cross-Cultural Study, Text Mining, Bayesian Analysis, Data Visualization  
+    Interest: Sport Performance, Cross-Cultural Study, Text Mining, Bayesian Analysis, Data Visualization  
   orcid: 
   email: rimester@jnu.ac.kr
   github: 
