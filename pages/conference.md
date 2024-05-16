@@ -18,6 +18,13 @@ Oral talks
 1. D. Lee, O.-H. Kwon, I. Hong, J. Park, W.-S. Jung, H. Youn, "Mobility Connectedness: Uncovering socioeconomic bias and connectivity in urban mobility", *9th International Conference on Computational Social Science (IC2S2)*, Jul 18, 2023.
 
 1. O.-H. Kwon, D. Lee, I. Hong, J. Park, H. Youn, W.-S. Jung, "Mobility potential as a window to explore social capital in urban systems", *9th International Conference on Computational Social Science (IC2S2)*, Jul 18, 2023.
+
+### Posters
+-----
+1. H. Lee, I. Hong, "Quantifying the impact of Vocational Education and Training on the Singapore labor market with text embedding and similarity-based networks", *2024 Korean Physical Society Spring Meeting*, Apr 23-26, 2024.
+
+1. W. Goh, H. Lee, I. Hong, "Unraveling the copying practices, "Urakai", in Korean digital media through similarity-based network analysis", *2024 Korean Physical Society Spring Meeting*, Apr 23-26, 2024.
+
 <br /> 
 <br />
 
