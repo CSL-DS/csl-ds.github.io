@@ -25,7 +25,6 @@ toc: true
 
 1. W. Goh, H. Lee, I. Hong, "Unraveling the copying practices, "Urakai", in Korean digital media through similarity-based network analysis", *2024 Korean Physical Society Spring Meeting*, Apr 23-26, 2024.
 
-<br /> 
 <br />
 
 ## Before 2023
