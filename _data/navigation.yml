@@ -8,12 +8,10 @@
   href: /team/
 - text: Publications
   href: /publication/
-- text: Other Output
-  menu:
-  - text: Presentations
-    href: /conference/
-  - text: Grants
-    href: /grant/
+- text: Presentations
+  href: /conference/
+- text: Grants
+  href: /grant/
 - text: News
   href: /news/
 - text: Contact
