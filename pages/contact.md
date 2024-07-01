@@ -11,6 +11,11 @@ background: https://images.unsplash.com/photo-1587560699334-cc4ff634909a?q=80&w=
 <br />
 <br />
 
+### Application
+* An in-person meeting with the director is required before applying for CSL. Please contact the director at the following email: [ihong@jnu.ac.kr](mailto:ihong@jnu.ac.kr)
+* Please attach your CV or graduate school application form in your email.
+* For the PhD program, a letter of recommendation from the advisor is required. Please request a meeting if you are interested in the PhD program.
+
 ### 연구실 진학
 * 연구실 지원 시, 반드시 지도교수와 면담이 필요합니다. 다음 이메일로 면담 신청 바랍니다: [ihong@jnu.ac.kr](mailto:ihong@jnu.ac.kr)
 * 면담 신청 시 지원하는 학생의 배경을 알 수 있도록 이력서, CV, 또는 대학원 지원서 등을 이메일에 함께 보내 주시기 바랍니다.
