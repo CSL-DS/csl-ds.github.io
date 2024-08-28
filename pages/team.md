@@ -6,8 +6,8 @@ background: https://images.unsplash.com/photo-1562577308-c8b2614b9b9a?q=80&w=100
 ---
 <style>
   .section-divider h2 {
-    font-size: 2rem;
-    margin: 2rem 0 0.5rem;
+    font-size: 4rem;
+    margin: 0rem -2 0.5rem;
     border: none;
   }
   .section-divider p {
