@@ -6,7 +6,7 @@ background: https://images.unsplash.com/photo-1562577308-c8b2614b9b9a?q=80&w=100
 ---
 
 <div class="team-grid">
-  {% for member in site.data.team %}
+  {% for member in site._data.team.yml %}
     {% if member.section %}
       <div class="section-divider">
         <h2>{{ member.section }}</h2>
