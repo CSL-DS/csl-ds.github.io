@@ -2,7 +2,6 @@
 - category: Director
 
 - name: Inho Hong (홍인호)
-  role: Director
   image: assets/images/team-inho-hong.jpg
   description: |
     Assistant professor, Chonnam National University <br />
@@ -27,7 +26,7 @@
   twitter: 
 
 - name: Hye-Won Seon (선혜원)
-  role: Master's Student / Full-Time
+  role: Master's Student / Part-Time
   image: assets/images/team-hw-seon.jpg
   description: |
     Research Interests: Complex Networks, Spatial Information Network
