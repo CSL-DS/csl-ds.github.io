@@ -1,6 +1,7 @@
 # Project team members listed below will appear on the /team page
+- category: Director
+
 - name: Inho Hong (홍인호)
-  category: Director
   role: Director
   image: assets/images/team-inho-hong.jpg
   description: |
@@ -14,7 +15,6 @@
   twitter: Hong_Inho
 
 - name: Hyeonju Jeong (정현주)
-  category: Students
   role: Master's Student / Full-Time
   image: assets/images/team-hj-jeong.jpg
   description: |
@@ -25,7 +25,6 @@
   twitter: 
 
 - name: Hye-Won Seon (선혜원)
-  category: Students
   role: Master's Student / Full-Time
   image: assets/images/team-hw-seon.jpg
   description: |
@@ -36,7 +35,6 @@
   twitter: 
 
 - name: Woo-Ri Goh (고우리)
-  category: Students
   role: Master's Student / Part-Time
   image: assets/images/team-wr-goh.jpg
   description: |
@@ -48,7 +46,6 @@
   twitter: 
 
 - name: Sang-Bo Kim (김상보)
-  category: Students
   role: Master's Student / Part-Time
   image: assets/images/team-sb-kim.jpg
   description: |
@@ -60,7 +57,6 @@
   twitter: 
 
 - name: Myoung-Jin Shin (신명진)
-  category: Students
   role: Master's Student / Part-Time
   image: assets/images/team-mj-shin.jpg
   description: |
@@ -72,7 +68,6 @@
   twitter: 
 
 - name: Do-Hyeon Lee (이도현)
-  category: Students
   role: Master's Student / Part-Time
   image: assets/images/team-dh-lee.png
   description: |
@@ -84,7 +79,6 @@
   twitter: 
 
 - name: Da-In Shin (신다인)
-  category: Students
   role: Master's Student / Part-Time
   image: assets/images/team-di-shin.jpg
   description: |
@@ -96,7 +90,6 @@
   twitter: 
 
 - name: Hyeong-Jae Lee (이형재)
-  category: Alumni
   role: Master's Student / Full-Time
   image: assets/images/team-hj-lee.png
   description: |
