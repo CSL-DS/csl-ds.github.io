@@ -1,19 +1,4 @@
 # Project team members listed below will appear on the /team page
-- category: Director
-  members:
-    - name: Inho Hong (홍인호)
-      role: Director
-      image: assets/images/team-inho-hong.jpg
-      description: |
-        Assistant professor, Chonnam National University <br />
-        Associate Research Scientist, Max Planck Institute for Human Development <br />
-        [https://inhohong.github.io](https://inhohong.github.io)
-      orcid: 0000-0002-8069-6110
-      email: ihong@jnu.ac.kr
-      googlescholar: kmN6l-AAAAAJ
-      github: inhohong
-      twitter: Hong_Inho
-
 - name: Inho Hong (홍인호)
   role: Director
   image: assets/images/team-inho-hong.jpg
@@ -26,16 +11,6 @@
   googlescholar: kmN6l-AAAAAJ
   github: inhohong
   twitter: Hong_Inho
-
-- name: Hyeong-Jae Lee (이형재)
-  role: Master's Student / Full-Time
-  image: assets/images/team-hj-lee.png
-  description: |
-    Research Interests: Human Capital, Text Mining, SDGs
-  orcid: 
-  email: lhch9550@gmail.com
-  github: lhch9550
-  twitter: 
 
 - name: Hyeonju Jeong (정현주)
   role: Master's Student / Full-Time
@@ -112,5 +87,13 @@
   github: 
   twitter: 
 
-- category: Alumni
-  members: []
+- name: Hyeong-Jae Lee (이형재)
+  category: Alumni
+  role: Master's Student / Full-Time
+  image: assets/images/team-hj-lee.png
+  description: |
+    Research Interests: Human Capital, Text Mining, SDGs
+  orcid: 
+  email: lhch9550@gmail.com
+  github: lhch9550
+  twitter: 
