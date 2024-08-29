@@ -5,36 +5,21 @@ permalink: /team/
 background: https://images.unsplash.com/photo-1562577308-c8b2614b9b9a?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
-{% for category in site.data.team %}
-  <h2>{{ category.category }}</h2>
-  {% for member in category.members %}
-    <p>{{ member.name }} - {{ member.role }}</p>
-  {% endfor %}
-{% endfor %}
+{% assign categories = site.data.team | map: "category" | uniq %}
 
-<hr>
-
-{% for category in site.data.team %}
-  <h3>{{ category.category }}</h3>
-  <div class="row">
-    {% for member in category.members %}
-      <div class="col-lg-4 col-sm-6">
-        {% if member.image %}
-          <img src="{{ member.image | relative_url }}" alt="{{ member.name }}" class="img-fluid">
-        {% endif %}
-        <h4>{{ member.name }}</h4>
+{% for category in categories %}
+  <h2>{{ category }}</h2>
+  {% for member in site.data.team %}
+    {% if member.category == category %}
+      <div class="team-member">
+        <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
+        <h3>{{ member.name }}</h3>
         <p>{{ member.role }}</p>
         {{ member.description | markdownify }}
-        {% if member.email %}
-          <p><a href="mailto:{{ member.email }}">{{ member.email }}</a></p>
-        {% endif %}
-        {% if member.github %}
-          <p><a href="https://github.com/{{ member.github }}">GitHub</a></p>
-        {% endif %}
-        {% if member.twitter %}
-          <p><a href="https://twitter.com/{{ member.twitter }}">Twitter</a></p>
-        {% endif %}
+        {% if member.email %}<p>Email: <a href="mailto:{{ member.email }}">{{ member.email }}</a></p>{% endif %}
+        {% if member.github %}<p>GitHub: <a href="https://github.com/{{ member.github }}">{{ member.github }}</a></p>{% endif %}
+        {% if member.twitter %}<p>Twitter: <a href="https://twitter.com/{{ member.twitter }}">{{ member.twitter }}</a></p>{% endif %}
       </div>
-    {% endfor %}
-  </div>
+    {% endif %}
+  {% endfor %}
 {% endfor %}
