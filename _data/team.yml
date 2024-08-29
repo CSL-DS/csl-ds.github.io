@@ -2,7 +2,8 @@
 - category: Director
   name: ""
 
-- name: Inho Hong (홍인호)
+- category: Director
+  name: Inho Hong (홍인호)
   role: Director
   image: assets/images/team-inho-hong.jpg
   description: |
@@ -15,7 +16,11 @@
   github: inhohong
   twitter: Hong_Inho
 
-- name: Hyeonju Jeong (정현주)
+- category: Students
+  name: ""
+  
+- category: Students
+  name: Hyeonju Jeong (정현주)
   role: Master's Student / Full-Time
   image: assets/images/team-hj-jeong.jpg
   description: |
@@ -25,7 +30,8 @@
   github: hjj978
   twitter: 
 
-- name: Hye-Won Seon (선혜원)
+- category: Students
+  name: Hye-Won Seon (선혜원)
   role: Master's Student / Full-Time
   image: assets/images/team-hw-seon.jpg
   description: |
@@ -35,7 +41,8 @@
   github: 
   twitter: 
 
-- name: Woo-Ri Goh (고우리)
+- category: Students
+  name: Woo-Ri Goh (고우리)
   role: Master's Student / Part-Time
   image: assets/images/team-wr-goh.jpg
   description: |
@@ -46,7 +53,8 @@
   github: 
   twitter: 
 
-- name: Sang-Bo Kim (김상보)
+- category: Students
+  name: Sang-Bo Kim (김상보)
   role: Master's Student / Part-Time
   image: assets/images/team-sb-kim.jpg
   description: |
@@ -57,7 +65,8 @@
   github: 
   twitter: 
 
-- name: Myoung-Jin Shin (신명진)
+- category: Students
+  name: Myoung-Jin Shin (신명진)
   role: Master's Student / Part-Time
   image: assets/images/team-mj-shin.jpg
   description: |
@@ -68,7 +77,8 @@
   github: 
   twitter: 
 
-- name: Do-Hyeon Lee (이도현)
+- category: Students
+  name: Do-Hyeon Lee (이도현)
   role: Master's Student / Part-Time
   image: assets/images/team-dh-lee.png
   description: |
@@ -79,7 +89,8 @@
   github: 
   twitter: 
 
-- name: Da-In Shin (신다인)
+- category: Students
+  name: Da-In Shin (신다인)
   role: Master's Student / Part-Time
   image: assets/images/team-di-shin.jpg
   description: |
@@ -90,7 +101,8 @@
   github: 
   twitter: 
 
-- name: Hyeong-Jae Lee (이형재)
+- category: Alumni
+  name: Hyeong-Jae Lee (이형재)
   role: Master's Student / Full-Time
   image: assets/images/team-hj-lee.png
   description: |
