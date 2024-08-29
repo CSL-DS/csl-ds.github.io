@@ -4,22 +4,3 @@ title: Team
 permalink: /team/
 background: https://images.unsplash.com/photo-1562577308-c8b2614b9b9a?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
-
-{% assign categories = site._data.team | map: "category" | uniq %}
-
-{% for category in categories %}
-  <h2>{{ category }}</h2>
-  {% for member in site._data.team %}
-    {% if member.category == category %}
-      <div class="team-member">
-        <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
-        <h3>{{ member.name }}</h3>
-        <p>{{ member.role }}</p>
-        {{ member.description | markdownify }}
-        {% if member.email %}<p>Email: <a href="mailto:{{ member.email }}">{{ member.email }}</a></p>{% endif %}
-        {% if member.github %}<p>GitHub: <a href="https://github.com/{{ member.github }}">{{ member.github }}</a></p>{% endif %}
-        {% if member.twitter %}<p>Twitter: <a href="https://twitter.com/{{ member.twitter }}">{{ member.twitter }}</a></p>{% endif %}
-      </div>
-    {% endif %}
-  {% endfor %}
-{% endfor %}
