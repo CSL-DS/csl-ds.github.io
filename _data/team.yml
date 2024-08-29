@@ -1,4 +1,19 @@
 # Project team members listed below will appear on the /team page
+- category: Director
+  members:
+    - name: Inho Hong (홍인호)
+      role: Director
+      image: assets/images/team-inho-hong.jpg
+      description: |
+        Assistant professor, Chonnam National University <br />
+        Associate Research Scientist, Max Planck Institute for Human Development <br />
+        [https://inhohong.github.io](https://inhohong.github.io)
+      orcid: 0000-0002-8069-6110
+      email: ihong@jnu.ac.kr
+      googlescholar: kmN6l-AAAAAJ
+      github: inhohong
+      twitter: Hong_Inho
+
 - name: Inho Hong (홍인호)
   role: Director
   image: assets/images/team-inho-hong.jpg
@@ -96,3 +111,6 @@
   email: dainshin43@gmail.com
   github: 
   twitter: 
+
+- category: Alumni
+  members: []
