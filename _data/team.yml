@@ -1,105 +1,107 @@
 # Project team members listed below will appear on the /team page
-- category: Director
-  members:
-  - name: Inho Hong (홍인호)
-    role: Director
-    image: assets/images/team-inho-hong.jpg
-    description: |
-      Assistant professor, Chonnam National University <br />
-      Associate Research Scientist, Max Planck Institute for Human Development <br />
-      [https://inhohong.github.io](https://inhohong.github.io)
-    orcid: 0000-0002-8069-6110
-    email: ihong@jnu.ac.kr
-    googlescholar: kmN6l-AAAAAJ
-    github: inhohong
-    twitter: Hong_Inho
+- name: Inho Hong (홍인호)
+  category: Director
+  role: Director
+  image: assets/images/team-inho-hong.jpg
+  description: |
+    Assistant professor, Chonnam National University <br />
+    Associate Research Scientist, Max Planck Institute for Human Development <br />
+    [https://inhohong.github.io](https://inhohong.github.io)
+  orcid: 0000-0002-8069-6110
+  email: ihong@jnu.ac.kr
+  googlescholar: kmN6l-AAAAAJ
+  github: inhohong
+  twitter: Hong_Inho
 
-- category: Students
-  members:
-  - name: Hyeonju Jeong (정현주)
-    role: Master's Student / Full-Time
-    image: assets/images/team-hj-jeong.jpg
-    description: |
-      Research Interests: Complex Networks, International Cooperation, SDGs
-    orcid: 
-    email: jeonghj1385@gmail.com
-    github: hjj978
-    twitter: 
-  
-  - name: Hye-Won Seon (선혜원)
-    role: Master's Student / Full-Time
-    image: assets/images/team-hw-seon.jpg
-    description: |
-      Research Interests: Complex Networks, Spatial Information Network
-    orcid: 
-    email: seonhyewon1211@gmail.com
-    github: 
-    twitter: 
-  
-  - name: Woo-Ri Goh (고우리)
-    role: Master's Student / Part-Time
-    image: assets/images/team-wr-goh.jpg
-    description: |
-      KBC(Gwangju Broadcasting Company)<br />
-      Research Interests: Journalism, Media, Broadcasting
-    orcid: 
-    email: wego@ikbc.co.kr
-    github: 
-    twitter: 
-  
-  - name: Sang-Bo Kim (김상보)
-    role: Master's Student / Part-Time
-    image: assets/images/team-sb-kim.jpg
-    description: |
-      Gwangju Urban Regeneration Center<br />
-      Research Interests: Urban Development, Urban Regeneration, Urban Planning
-    orcid: 
-    email: sangbofficial@gmail.com
-    github: 
-    twitter: 
-  
-  - name: Myoung-Jin Shin (신명진)
-    role: Master's Student / Part-Time
-    image: assets/images/team-mj-shin.jpg
-    description: |
-      inDJ Corp<br />
-      Research Interests: Human Mobility, Complex networks, Reinforcement Learning
-    orcid: 
-    email: overtakedio@gmail.com
-    github: 
-    twitter: 
-  
-  - name: Do-Hyeon Lee (이도현)
-    role: Master's Student / Part-Time
-    image: assets/images/team-dh-lee.png
-    description: |
-      Jeollanamdo Office of Education<br />
-      Research Interests: Sport Performance, Cross-Cultural Study, Text Mining, Bayesian Analysis, Data Visualization  
-    orcid: 
-    email: rimester@jnu.ac.kr
-    github: 
-    twitter: 
-  
-  - name: Da-In Shin (신다인)
-    role: Master's Student / Part-Time
-    image: assets/images/team-di-shin.jpg
-    description: |
-      KEPCO Knowledge, Data&Network Co., Ltd.<br />
-      Research Interests: Financial Engineering, Time Series Forecasting 
-    orcid: 
-    email: dainshin43@gmail.com
-    github: 
-    twitter: 
-
-- category: Alumni
-  members:
-  - name: Hyeong-Jae Lee (이형재)
-    category: Alumni
-    role: Master's Student / Full-Time
-    image: assets/images/team-hj-lee.png
-    description: |
-      Research Interests: Human Capital, Text Mining, SDGs
-    orcid: 
-    email: lhch9550@gmail.com
-    github: lhch9550
+- name: Hyeonju Jeong (정현주)
+  category: Students
+  role: Master's Student / Full-Time
+  image: assets/images/team-hj-jeong.jpg
+  description: |
+    Research Interests: Complex Networks, International Cooperation, SDGs
+  orcid: 
+  email: jeonghj1385@gmail.com
+  github: hjj978
   twitter: 
+
+- name: Hye-Won Seon (선혜원)
+  category: Students
+  role: Master's Student / Full-Time
+  image: assets/images/team-hw-seon.jpg
+  description: |
+    Research Interests: Complex Networks, Spatial Information Network
+  orcid: 
+  email: seonhyewon1211@gmail.com
+  github: 
+  twitter: 
+
+- name: Woo-Ri Goh (고우리)
+  category: Students
+  role: Master's Student / Part-Time
+  image: assets/images/team-wr-goh.jpg
+  description: |
+    KBC(Gwangju Broadcasting Company)<br />
+    Research Interests: Journalism, Media, Broadcasting
+  orcid: 
+  email: wego@ikbc.co.kr
+  github: 
+  twitter: 
+
+- name: Sang-Bo Kim (김상보)
+  category: Students
+  role: Master's Student / Part-Time
+  image: assets/images/team-sb-kim.jpg
+  description: |
+    Gwangju Urban Regeneration Center<br />
+    Research Interests: Urban Development, Urban Regeneration, Urban Planning
+  orcid: 
+  email: sangbofficial@gmail.com
+  github: 
+  twitter: 
+
+- name: Myoung-Jin Shin (신명진)
+  category: Students
+  role: Master's Student / Part-Time
+  image: assets/images/team-mj-shin.jpg
+  description: |
+    inDJ Corp<br />
+    Research Interests: Human Mobility, Complex networks, Reinforcement Learning
+  orcid: 
+  email: overtakedio@gmail.com
+  github: 
+  twitter: 
+
+- name: Do-Hyeon Lee (이도현)
+  category: Students
+  role: Master's Student / Part-Time
+  image: assets/images/team-dh-lee.png
+  description: |
+    Jeollanamdo Office of Education<br />
+    Research Interests: Sport Performance, Cross-Cultural Study, Text Mining, Bayesian Analysis, Data Visualization  
+  orcid: 
+  email: rimester@jnu.ac.kr
+  github: 
+  twitter: 
+
+- name: Da-In Shin (신다인)
+  category: Students
+  role: Master's Student / Part-Time
+  image: assets/images/team-di-shin.jpg
+  description: |
+    KEPCO Knowledge, Data&Network Co., Ltd.<br />
+    Research Interests: Financial Engineering, Time Series Forecasting 
+  orcid: 
+  email: dainshin43@gmail.com
+  github: 
+  twitter: 
+
+- name: Hyeong-Jae Lee (이형재)
+  category: Alumni
+  role: Master's Student / Full-Time
+  image: assets/images/team-hj-lee.png
+  description: |
+    Research Interests: Human Capital, Text Mining, SDGs
+  orcid: 
+  email: lhch9550@gmail.com
+  github: lhch9550
+twitter: 
