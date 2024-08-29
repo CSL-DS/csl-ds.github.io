@@ -1,9 +1,5 @@
 # Project team members listed below will appear on the /team page
-- category: Director
-  name: ""
-
-- category: Director
-  name: Inho Hong (홍인호)
+- name: Inho Hong (홍인호)
   role: Director
   image: assets/images/team-inho-hong.jpg
   description: |
@@ -15,12 +11,8 @@
   googlescholar: kmN6l-AAAAAJ
   github: inhohong
   twitter: Hong_Inho
-
-- category: Students
-  name: ""
   
-- category: Students
-  name: Hyeonju Jeong (정현주)
+- name: Hyeonju Jeong (정현주)
   role: Master's Student / Full-Time
   image: assets/images/team-hj-jeong.jpg
   description: |
@@ -30,8 +22,7 @@
   github: hjj978
   twitter: 
 
-- category: Students
-  name: Hye-Won Seon (선혜원)
+- name: Hye-Won Seon (선혜원)
   role: Master's Student / Full-Time
   image: assets/images/team-hw-seon.jpg
   description: |
@@ -41,8 +32,7 @@
   github: 
   twitter: 
 
-- category: Students
-  name: Woo-Ri Goh (고우리)
+- name: Woo-Ri Goh (고우리)
   role: Master's Student / Part-Time
   image: assets/images/team-wr-goh.jpg
   description: |
@@ -53,8 +43,7 @@
   github: 
   twitter: 
 
-- category: Students
-  name: Sang-Bo Kim (김상보)
+- name: Sang-Bo Kim (김상보)
   role: Master's Student / Part-Time
   image: assets/images/team-sb-kim.jpg
   description: |
@@ -65,8 +54,7 @@
   github: 
   twitter: 
 
-- category: Students
-  name: Myoung-Jin Shin (신명진)
+- name: Myoung-Jin Shin (신명진)
   role: Master's Student / Part-Time
   image: assets/images/team-mj-shin.jpg
   description: |
@@ -77,8 +65,7 @@
   github: 
   twitter: 
 
-- category: Students
-  name: Do-Hyeon Lee (이도현)
+- name: Do-Hyeon Lee (이도현)
   role: Master's Student / Part-Time
   image: assets/images/team-dh-lee.png
   description: |
@@ -89,8 +76,7 @@
   github: 
   twitter: 
 
-- category: Students
-  name: Da-In Shin (신다인)
+- name: Da-In Shin (신다인)
   role: Master's Student / Part-Time
   image: assets/images/team-di-shin.jpg
   description: |
@@ -101,8 +87,7 @@
   github: 
   twitter: 
 
-- category: Alumni
-  name: Hyeong-Jae Lee (이형재)
+- name: Hyeong-Jae Lee (이형재)
   role: Master's Student / Full-Time
   image: assets/images/team-hj-lee.png
   description: |
