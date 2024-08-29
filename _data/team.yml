@@ -1,4 +1,6 @@
 # Project team members listed below will appear on the /team page
+- category: Director
+
 - name: Inho Hong (홍인호)
   role: Director
   image: assets/images/team-inho-hong.jpg
@@ -11,6 +13,8 @@
   googlescholar: kmN6l-AAAAAJ
   github: inhohong
   twitter: Hong_Inho
+
+- category: Students
   
 - name: Hyeonju Jeong (정현주)
   role: Master's Student / Full-Time
@@ -86,6 +90,8 @@
   email: dainshin43@gmail.com
   github: 
   twitter: 
+
+- category: Alumni
 
 - name: Hyeong-Jae Lee (이형재)
   role: Master's Student / Full-Time
