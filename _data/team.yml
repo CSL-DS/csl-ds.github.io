@@ -25,7 +25,7 @@
   github: hjj978
   twitter: 
 
-- name: Hye-Won Seon (선혜원)
+- name: Hyewon Seon (선혜원)
   role: Master's Student / Part-Time
   image: assets/images/team-hw-seon.jpg
   description: |
@@ -35,7 +35,7 @@
   github: 
   twitter: 
 
-- name: Woo-Ri Goh (고우리)
+- name: Woori Goh (고우리)
   role: Master's Student / Part-Time
   image: assets/images/team-wr-goh.jpg
   description: |
@@ -46,7 +46,7 @@
   github: 
   twitter: 
 
-- name: Sang-Bo Kim (김상보)
+- name: Sangbo Kim (김상보)
   role: Master's Student / Part-Time
   image: assets/images/team-sb-kim.jpg
   description: |
@@ -57,7 +57,7 @@
   github: 
   twitter: 
 
-- name: Myoung-Jin Shin (신명진)
+- name: Myoungjin Shin (신명진)
   role: Master's Student / Part-Time
   image: assets/images/team-mj-shin.jpg
   description: |
@@ -68,7 +68,7 @@
   github: 
   twitter: 
 
-- name: Do-Hyeon Lee (이도현)
+- name: Dohyeon Lee (이도현)
   role: Master's Student / Part-Time
   image: assets/images/team-dh-lee.png
   description: |
@@ -79,7 +79,7 @@
   github: 
   twitter: 
 
-- name: Da-In Shin (신다인)
+- name: Dain Shin (신다인)
   role: Master's Student / Part-Time
   image: assets/images/team-di-shin.jpg
   description: |
@@ -89,7 +89,29 @@
   email: dainshin43@gmail.com
   github: 
   twitter: 
+  
+- name: Wonwoo Cho (조원우)
+  role: Master's Student / Part-Time
+  image: assets/images/team-ww-cho.jpg
+  description: |
+    The Korea Chamber of Commerce & Industry<br />
+    Research Interests: Society, Population, Urban Science 
+  orcid: 
+  email: wwcho@korcham.net
+  github: 
+  twitter: 
 
+- name: Minjung Noh (노민정)
+  role: Master's Student / Part-Time
+  image: assets/images/team-mj-noh.jpg
+  description: |
+    Chonnam National University<br />
+    Research Interests: Semantic Network, Ancient Chinese Characters 
+  orcid: 
+  email: mjnosky@naver.com
+  github: 
+  twitter:
+  
 - category: Alumni
 
 - name: Hyeongjae Lee (이형재)
