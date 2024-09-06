@@ -90,16 +90,16 @@
   github: 
   twitter: 
 
-#- name: Wonwoo Cho (조원우)
-#  role: Master's Student / Part-Time
-#  image: assets/images/team_ww_cho.jpg
-#  description: |
-#    The Korea Chamber of Commerce & Industry<br />
-#    Research Interests: Society, Population, Urban Science 
-#  orcid: 
-#  email: wwcho@korcham.net
-#  github: 
-#  twitter: 
+- name: Wonwoo Cho (조원우)
+  role: Master's Student / Part-Time
+  image: assets/images/team_ww_cho.jpg
+  description: |
+    The Korea Chamber of Commerce & Industry<br />
+    Research Interests: Society, Population, Urban Science 
+  orcid: 
+  email: wwcho@korcham.net
+  github: 
+  twitter: 
 
 - name: Minjung Noh (노민정)
   role: Master's Student / Part-Time
