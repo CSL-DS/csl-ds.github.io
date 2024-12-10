@@ -7,6 +7,8 @@ toc: true
 
 ### Invited talks
 -----
+1. I. Hong, "Exploring complex interactions in cities with data science", *Roles of Heterogeneity in Economical, Social, and Ecological Systems (RHINOS) 2024*, Nov 9, 2024.
+
 1. I. Hong, "Unraveling employment growth and human mobility in cities with scaling relations", *STATPHYS28 Satellite Meeting: New Frontiers in Complex Networks*, Aug 2, 2023. 
    
 1. I. Hong, "Explaining complex interactions in socio-spatial systems with data science", *2023 Korean Physical Society Spring Meeting*, Apr 19, 2023. 
@@ -21,6 +23,12 @@ toc: true
 
 ### Posters
 -----
+1. H. Jeong, I. Hong, "Understanding the Structure of International Cooperation with Aid Flows for Sustainable Development Goals", *Roles of Heterogeneity in Economical, Social, and Ecological Systems (RHINOS) 2024*, Nov 8-11, 2024.
+   
+1. H. Jeong, I. Hong, "Understanding the Structure of International Aid Flows for Sustainable Development Goals", *2024 Korean Physical Society Fall Meeting*, Oct 24-26, 2024.
+
+1. O.-H. Kwon, D. Lee, W.-S. Jung, and H. Youn, J. Park, I. Hong, "Urban borderland explored by the mobility divergence", *2024 Korean Physical Society Fall Meeting*, Oct 24-26, 2024. 
+
 1. H. Lee, I. Hong, "Measuring the influence of Vocational Education on Singapore labor market with LLM and similarity-based networks", *10th International Conference on Computational Social Science*, Jul 17-20, 2024.
 
 1. H. Lee, I. Hong, "Quantifying the impact of Vocational Education and Training on the Singapore labor market with text embedding and similarity-based networks", *2024 Korean Physical Society Spring Meeting*, Apr 23-26, 2024.
