@@ -15,7 +15,7 @@ _Urban data science explains urban systems and phenomena with micro-level data_
 <br />
 ## NLP Applications
 
-_NLP Applications allow explorations of knowledge through text data_
+_NLP applications allow explorations of knowledge through text data_
 
 ![NLP Applications](/assets/images/research-bibliography.jpg)
 *(a) International research collaboration by topics [(PLoS One, 2019)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0211963) and 
