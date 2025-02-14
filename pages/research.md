@@ -13,11 +13,11 @@ _Urban data science explains urban systems and phenomena with micro-level data_
 (b) human mobility networks in five Korean cities [(Physica A, 2016)](http://www.sciencedirect.com/science/article/pii/S0378437116303235), and 
 (c) happiness and urban green space measured by satellite imagery [(EPJ DS, 2021)](https://doi.org/10.1140/epjds/s13688-021-00278-7)*
 <br />
-## Bibliographic Analysis
+## NLP Applications
 
-_Bibliographic analysis allows explorations of knowledge through text data_
+_NLP Applications allow explorations of knowledge through text data_
 
-![bibliography](/assets/images/research-bibliography.jpg)
+![NLP Applications](/assets/images/research-bibliography.jpg)
 *(a) International research collaboration by topics [(PLoS One, 2019)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0211963) and 
 (b) network of vocational education programs in Singapore quantified by BERT*
 <br />
