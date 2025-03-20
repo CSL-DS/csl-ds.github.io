@@ -34,6 +34,16 @@
   github: kangsehyeong
   twitter:
 
+- name: Sumin Han (한수민)
+  role: Master's Student / Full-Time
+  image: assets/images/team-sm-han.jpg
+  description: |
+    Research Interests: Energy Network&Disaster Resilience, Complex System
+  orcid: 
+  email: hansooom1n@gmail.com
+  github: 
+  twitter:
+
 - name: Hyewon Seon (선혜원)
   role: Master's Student / Part-Time
   image: assets/images/team-hw-seon.jpg
@@ -131,6 +141,18 @@
   email: kimse3047@gmail.com
   github: 
   twitter:
+
+- name: Minji Lim (임민지)
+  role: Master's Student / Part-Time
+  image: assets/images/team-mg-lim.jpg
+  description: |
+    KISA(Korea Internet & Security Agency)<br />
+    Research Interests: Building ICT Infrastructure in Developing Countries
+  orcid: 
+  email:hellominji0628@gmail.com
+  github: 
+  twitter:
+  
   
 - category: Alumni
 
