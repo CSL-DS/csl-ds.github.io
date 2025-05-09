@@ -15,6 +15,8 @@ toc: true
 
 ### Oral talks
 -----
+1. H. Jeong, S. Yang, S.-G. Park, I. Hong, H. D. Kim, "Predicting the Risk of Burnout Syndrome from Job Stress Factors with Machine Learning", *2025 한국스마트미디어학회 춘계학술대회*, May 2, 2025.
+
 1. H. Lee, I. Hong, "Quantifying the influence of vocational education with text embedding and similarity-based networks", *2023 Korea Academy of Complexity Studies Conference*, Dec 16, 2023.
 
 1. D. Lee, O.-H. Kwon, I. Hong, J. Park, W.-S. Jung, H. Youn, "Mobility Connectedness: Uncovering socioeconomic bias and connectivity in urban mobility", *9th International Conference on Computational Social Science (IC2S2)*, Jul 18, 2023.
@@ -23,6 +25,10 @@ toc: true
 
 ### Posters
 -----
+1. S. Kang, I. Hong, "Understanding the impact of extreme weather events on human mobility in the Seoul Metropolitan Area", *2025 Korean Physical Society Spring Meeting*, Apr 23-25, 2025.
+
+1. H. Jeong, I. Hong, "Structural analysis of international aid flow patterns for Sustainable Development Goals", *2025 Korean Physical Society Spring Meeting*, Apr 23-25, 2025.
+
 1. H. Jeong, I. Hong, "Understanding the Structure of International Cooperation with Aid Flows for Sustainable Development Goals", *Roles of Heterogeneity in Economical, Social, and Ecological Systems (RHINOS) 2024*, Nov 8-11, 2024.
    
 1. H. Jeong, I. Hong, "Understanding the Structure of International Aid Flows for Sustainable Development Goals", *2024 Korean Physical Society Fall Meeting*, Oct 24-26, 2024.
