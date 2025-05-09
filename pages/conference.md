@@ -15,7 +15,7 @@ toc: true
 
 ### Oral talks
 -----
-1. H. Jeong, S. Yang, S.-G. Park, I. Hong, H. D. Kim, "Predicting the Risk of Burnout Syndrome from Job Stress Factors with Machine Learning", *2025 한국스마트미디어학회 춘계학술대회*, May 2, 2025.
+1. H. Jeong, S. Yang, S.-G. Park, I. Hong, H. D. Kim, "Predicting the Risk of Burnout Syndrome from Job Stress Factors with Machine Learning", *2025 Korean Institute of Smart Media Spring Meeting*, May 2, 2025.
 
 1. H. Lee, I. Hong, "Quantifying the influence of vocational education with text embedding and similarity-based networks", *2023 Korea Academy of Complexity Studies Conference*, Dec 16, 2023.
 
