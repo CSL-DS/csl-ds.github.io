@@ -5,7 +5,7 @@ background: https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=r
 permalink: /publication/
 toc: true
 ---
-1. H. Jeong, S. Yang, S.-G. Park, I. Hong, H. D. Kim, "Predicting the Risk of Burnout Syndrome Using Korean Occupational Stress Scale (KOSS): A Machine Learning Approach", *Safety and Health at Work* **in press** (2025). [[paper]](https://doi.org/10.1016/j.shaw.2025.08.006)
+1. H. Jeong, S. Yang, S.-G. Park, I. Hong, H. D. Kim, "Predicting the Risk of Burnout Syndrome Using Korean Occupational Stress Scale (KOSS): A Machine Learning Approach", *Safety and Health at Work*, *in press* (2025). [[paper]](https://doi.org/10.1016/j.shaw.2025.08.006)
 
 1. H. Lee and I. Hong, "Quantifying the influence of vocational education and training with text embedding and similarity-based networks", *PLOS ONE* **20**, e0329405 (2025). [[paper]](https://doi.org/10.1371/journal.pone.0329405)
 
