@@ -36,7 +36,7 @@
 
 - name: Seif Nasr
   role: Master's Student / Full-Time
-  image: assets/images/team_seif.jpeg
+  image: assets/images/team_seif.jpg
   description: |
     Research Interests: Image Processing, Deep Learning
   orcid: 
@@ -46,7 +46,7 @@
 
 - name: Kholisoh Nur Sinta
   role: Master's Student / Full-Time
-  image: assets/images/team_sinta.jpg
+  image: assets/images/team_sinta.jpeg
   description: |
     Research Interests: Sustainable Development Goals(SDGs), Sustainable Energy
   orcid: 
