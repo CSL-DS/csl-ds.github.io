@@ -12,7 +12,7 @@
   github: inhohong
   twitter: Hong_Inho
   
-- category: Students
+- category: Full-time students
   
 - name: Sehyeong Kang (강세형)
   role: Master's Student / Full-Time
@@ -54,15 +54,29 @@
   github: 
   twitter:
 
-- name: Hyewon Seon (선혜원)
-  role: Master's Student / Part-Time
-  image: assets/images/team-hw-seon.jpg
+- category: Part-time students
+
+- name: Dohyeon Lee (이도현)
+  role: Ph.D. Student / Part-Time
+  image: assets/images/team-dh-lee.png
   description: |
-    Research Interests: Complex System, Spatial Information Network
+    Jeollanamdo Office of Education<br />
+    Research Interests: Sport Performance, Cross-Cultural Study, Text Mining, Bayesian Analysis, Data Visualization  
   orcid: 
-  email: seonhyewon1211@gmail.com
+  email: rimester@jnu.ac.kr
   github: 
   twitter: 
+
+- name: Areum Park (박아름)
+  role: Ph.D. Student / Part-Time
+  image: assets/images/team-ar-park.jpg
+  description: |
+    Wonkwang Electric Power Co., Ltd. <br />
+    Research Interests: Second-life Batteries, Photovoltaic Power Systems
+  orcid: 
+  email: jereint35@naver.com
+  github:
+  twitter:
 
 - name: Woori Goh (고우리)
   role: Master's Student / Part-Time
@@ -83,17 +97,6 @@
     Research Interests: Urban Development, Urban Regeneration, Urban Planning
   orcid: 
   email: sangbofficial@gmail.com
-  github: 
-  twitter: 
-
-- name: Dohyeon Lee (이도현)
-  role: Master's Student / Part-Time
-  image: assets/images/team-dh-lee.png
-  description: |
-    Jeollanamdo Office of Education<br />
-    Research Interests: Sport Performance, Cross-Cultural Study, Text Mining, Bayesian Analysis, Data Visualization  
-  orcid: 
-  email: rimester@jnu.ac.kr
   github: 
   twitter: 
 
@@ -130,6 +133,16 @@
   github: 
   twitter:
 
+- name: Hyewon Seon (선혜원)
+  role: Master's Student / Part-Time
+  image: assets/images/team-hw-seon.jpg
+  description: |
+    Research Interests: Complex System, Spatial Information Network
+  orcid: 
+  email: seonhyewon1211@gmail.com
+  github: 
+  twitter: 
+
 - name: Seongeun Kim (김성은)
   role: Master's Student / Part-Time
   image: assets/images/team-se-kim.jpeg
@@ -161,17 +174,6 @@
   orcid: 
   email: hyunsoo1753@gmail.com
   github: github.com/KiHyunsoo
-  twitter:
-  
-- name: Areum Park (박아름)
-  role: Ph.D. Student / Part-Time
-  image: assets/images/team-ar-park.jpg
-  description: |
-    Wonkwang Electric Power Co., Ltd. <br />
-    Research Interests: Second-life Batteries, Photovoltaic Power Systems
-  orcid: 
-  email: jereint35@naver.com
-  github:
   twitter:
 
 - name: Jisu Yu (유지수)
