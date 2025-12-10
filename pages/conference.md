@@ -15,6 +15,8 @@ toc: true
 
 ### Oral talks
 -----
+1. S. Kang, I. Hong, "설명가능 머신러닝을 활용한 수도권 내 이동의 시공간적 결정요인 분석: 교통접근성과 폭염을 중심으로", *2025 Korea Academy of Complexity Studies Conference*, Dec 06, 2025.
+
 1. H. Jeong, S. Yang, S.-G. Park, I. Hong, H. D. Kim, "Predicting the Risk of Burnout Syndrome from Job Stress Factors with Machine Learning", *2025 Korean Institute of Smart Media Spring Meeting*, May 2, 2025.
 
 1. H. Lee, I. Hong, "Quantifying the influence of vocational education with text embedding and similarity-based networks", *2023 Korea Academy of Complexity Studies Conference*, Dec 16, 2023.
@@ -25,6 +27,10 @@ toc: true
 
 ### Posters
 -----
+1. S. Han, I. Hong, "Heritage Experience Landscape: Network Analysis of Cultural Heritage Visitor Experiences", *2025 Korean Physical Society Fall Meeting*, Oct 23-24, 2025.
+
+1. S. Kang, I. Hong, "Heterogeneity in urban mobility under extreme heat: evidence from the Seoul Metropolitan Area", *2025 Korean Physical Society Fall Meeting*, Oct 23-24, 2025.
+
 1. S. Kang, I. Hong, "Understanding the impact of extreme weather events on human mobility in the Seoul Metropolitan Area", *2025 Korean Physical Society Spring Meeting*, Apr 23-25, 2025.
 
 1. H. Jeong, I. Hong, "Structural analysis of international aid flow patterns for Sustainable Development Goals", *2025 Korean Physical Society Spring Meeting*, Apr 23-25, 2025.
