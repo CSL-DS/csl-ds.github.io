@@ -179,7 +179,7 @@
   
 - name: Taeho Kuk (국태호)
   role: Master's Student / Part-Time
-  image: assets/images/team_th_kuk.jpg
+  image: assets/images/team-th-kuk.jpg
   description: |
     Chonnam National University RISE Center <br />
     Research Interests: Urban Data Science, Patents
@@ -190,7 +190,7 @@
 
 - name: Cheolgyun Kim (김철균)
   role: Master's Student / Part-Time
-  image: assets/images/team_cg_kim.jpg
+  image: assets/images/team-cg-kim.jpg
   description: |
     KT <br />
     Research Interests: Customer Data Analysis, NLP, Network Science
@@ -201,7 +201,7 @@
 
 - name: Juhwan Son (손주환)
   role: Master's Student / Part-Time
-  image: assets/images/team_jh_son.jpg
+  image: assets/images/team-jh-son.jpg
   description: |
     Research Interests: Healthcare, AI Agent
   orcid: 
@@ -211,7 +211,7 @@
 
 - name: Jihyung Cho (조지형)
   role: Master's Student / Part-Time
-  image: assets/images/team_jh_cho.jpg
+  image: assets/images/team-jh-cho.jpg
   description: |
     Gwangju Youth Station Dong Myeong <br />
     Research Interests: Youth Initiatives
@@ -222,7 +222,7 @@
 
 - name: Jongyun Jeong (정종윤)
   role: Master's Student / Part-Time
-  image: assets/images/team_jy_jeong.jpg
+  image: assets/images/team-jy-jeong.jpg
   description: |
     MISO Information Technology Co., Ltd. <br />
     Research Interests: Knowledge Graph, NLP Applications
