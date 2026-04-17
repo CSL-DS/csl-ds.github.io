@@ -30,7 +30,7 @@
   role: Master's Student / Full-Time
   image: assets/images/team-sm-han.jpg
   description: |
-    Research Interests: Energy Network & Disaster Resilience, Complex System
+    Research Interests: Natural Language Proccessing, LLMs, Complex System
   orcid: 
   email: hansooom1n@gmail.com
   github: 
@@ -123,28 +123,6 @@
   github: 
   twitter: 
 
-- name: Wonwoo Cho (조원우)
-  role: Master's Student / Part-Time
-  image: assets/images/team_ww_cho.jpg
-  description: |
-    The Korea Chamber of Commerce & Industry<br />
-    Research Interests: Society, Population, Urban Science 
-  orcid: 
-  email: wwcho@korcham.net
-  github: 
-  twitter: 
-
-- name: Minjung Noh (노민정)
-  role: Master's Student / Part-Time
-  image: assets/images/team-mj-noh.jpg
-  description: |
-    Chonnam National University<br />
-    Research Interests: Semantic Network, Ancient Chinese Characters 
-  orcid: 
-  email: mjnosky@naver.com
-  github: 
-  twitter:
-
 - name: Hyewon Seon (선혜원)
   role: Master's Student / Part-Time
   image: assets/images/team-hw-seon.jpg
@@ -199,7 +177,59 @@
   github:
   twitter:
   
-  
+- name: Taeho Kuk (국태호)
+  role: Master's Student / Part-Time
+  image: assets/images/team_th_kuk.jpg
+  description: |
+    Chonnam National University RISE Center <br />
+    Research Interests: Urban Data Science, Patents
+  orcid: 
+  email:
+  github:
+  twitter:
+
+- name: Cheolgyun Kim (김철균)
+  role: Master's Student / Part-Time
+  image: assets/images/team_cg_kim.jpg
+  description: |
+    KT <br />
+    Research Interests: Customer Data Analysis, NLP, Network Science
+  orcid: 
+  email: cgkim2698@gmail.com
+  github:
+  twitter:
+
+- name: Juhwan Son (손주환)
+  role: Master's Student / Part-Time
+  image: assets/images/team_jh_son.jpg
+  description: |
+    Research Interests: Healthcare, AI Agent
+  orcid: 
+  email: iinpeace1580@gmail.com
+  github:
+  twitter:
+
+- name: Jihyung Cho (조지형)
+  role: Master's Student / Part-Time
+  image: assets/images/team_jh_cho.jpg
+  description: |
+    Gwangju Youth Station Dong Myeong <br />
+    Research Interests: Youth Initiatives
+  orcid: 
+  email: hoandme82@gmail.com
+  github:
+  twitter:
+
+- name: Jongyun Jeong (정종윤)
+  role: Master's Student / Part-Time
+  image: assets/images/team_jy_jeong.jpg
+  description: |
+    MISO Information Technology Co., Ltd. <br />
+    Research Interests: Knowledge Graph, NLP Applications
+  orcid: 
+  email: jjy.ds26@gmail.com
+  github:
+  twitter:
   
 - category: Alumni
 
@@ -236,3 +266,25 @@
   email: overtakedio@gmail.com
   github: 
   twitter: 
+
+  - name: Wonwoo Cho (조원우)
+  role: Master's Student / Part-Time
+  image: assets/images/team_ww_cho.jpg
+  description: |
+    The Korea Chamber of Commerce & Industry<br />
+    Research Interests: Society, Population, Urban Science 
+  orcid: 
+  email: wwcho@korcham.net
+  github: 
+  twitter: 
+
+- name: Minjung Noh (노민정)
+  role: Master's Student / Part-Time
+  image: assets/images/team-mj-noh.jpg
+  description: |
+    Chonnam National University<br />
+    Research Interests: Semantic Network, Ancient Chinese Characters 
+  orcid: 
+  email: mjnosky@naver.com
+  github: 
+  twitter:
