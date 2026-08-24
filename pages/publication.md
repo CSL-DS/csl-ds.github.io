@@ -5,6 +5,8 @@ background: https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=r
 permalink: /publication/
 toc: true
 ---
+1. M. Shin, S. Kang, I. Hong, "A time-based gravity model of urban mobility and its comparison with a distance-based model", *Journal of the Korean Physical Society* (2026). [[paper]](https://doi.org/10.1007/s40042-026-01701-w)
+
 1. H. D. Kim, I. Hong, H.-C. Kim, "Predicting high exposure of per- and polyfluoroalkyl substances (PFASs) in Korean adults using machine learning", *International Journal of Hygiene and Environmental Health* **270**, 114674 (2025). [[paper]](https://doi.org/10.1016/j.ijheh.2025.114674)
 
 1. H. Jeong, S. Yang, S.-G. Park, I. Hong, H. D. Kim, "Predicting the Risk of Burnout Syndrome Using Korean Occupational Stress Scale (KOSS): A Machine Learning Approach", *Safety and Health at Work*, **16**, 462-469 (2025). [[paper]](https://doi.org/10.1016/j.shaw.2025.08.006)
