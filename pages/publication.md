@@ -5,7 +5,7 @@ background: https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=r
 permalink: /publication/
 toc: true
 ---
-1. S. Kang, I. Hong, "Explaining distance deterrence variation in urban mobility with spatiotemporal features", *EPJ Data Science* (2026). [[paper]](https://doi.org/10.1007/s40042-026-01701-w)
+1. S. Kang, I. Hong, "Explaining distance deterrence variation in urban mobility with spatiotemporal features", *EPJ Data Science* (2026). [[paper]](https://link.springer.com/article/10.1140/epjds/s13688-026-00702-w)
 
 1. M. Shin, S. Kang, I. Hong, "A time-based gravity model of urban mobility and its comparison with a distance-based model", *Journal of the Korean Physical Society* (2026). [[paper]](https://doi.org/10.1007/s40042-026-01701-w)
 
