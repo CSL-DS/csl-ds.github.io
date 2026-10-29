@@ -15,7 +15,7 @@ toc: true
 
 ### Oral talks
 -----
-1. S. Kang, I. Hong, "Urban conditions reshape distance deterrence within a metropolitan mobility network" 12th International Conference on Computational Social Science (IC2S2) July 30, 2026.
+1. S. Kang, I. Hong, "Urban conditions reshape distance deterrence within a metropolitan mobility network" *12th International Conference on Computational Social Science (IC2S2)* July 30, 2026.
 
 1. S. Kang, I. Hong, "설명가능 머신러닝을 활용한 수도권 내 이동의 시공간적 결정요인 분석: 교통접근성과 폭염을 중심으로", *2025 Korea Academy of Complexity Studies Conference*, Dec 06, 2025.
 
