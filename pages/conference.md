@@ -15,10 +15,12 @@ toc: true
 
 ### Oral talks
 -----
+1. S. Han, H. Jeong, E. Lee, C. Suh, H. Song, I. Hong, H. D. Kim, "Predicting Depressive Symptoms from Occupational Stressors with Machine Learning and Its SHAP-Based Interpretation", *2026 Fall Conference of the Korean Society for Preventive Medicine*, Oct 23, 2026.   
+
+1. S. Kang, I. Hong, "Comparing Travel-Time and Distance Constraints in Urban Mobility with Gravity Models", *2026 Korean Physical Society Fall Meeting*, Oct 22, 2026.
+
 1. S. Kang, I. Hong, "Urban conditions reshape distance deterrence within a metropolitan mobility network" *12th International Conference on Computational Social Science (IC2S2)* July 30, 2026.
-
-1. S. Han, H. Jeong, E. Lee, C. Suh, H. Song, I. Hong, H. D. Kim, "Predicting Depressive Symptoms from Occupational Stressors with Machine Learning and Its SHAP-Based Interpretation", *2026 Fall Conference of the Korean Society for Preventive Medicine*, Oct 23, 2026.
-
+   
 1. S. Nasr, I. Hong, H. D. Kim, "Mapping the Environmental Exposure System Using Mixed Graphical Models", *Asia-Pacific Summer School and Conference on Networks and Complex Systems (APCNCS 2026)*, Jun 10, 2026.
 
 1. S. Kang, I. Hong, "설명가능 머신러닝을 활용한 수도권 내 이동의 시공간적 결정요인 분석: 교통접근성과 폭염을 중심으로", *2025 Korea Academy of Complexity Studies Conference*, Dec 06, 2025.
