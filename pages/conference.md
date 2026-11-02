@@ -20,6 +20,8 @@ toc: true
 1. S. Kang, I. Hong, "Comparing Travel-Time and Distance Constraints in Urban Mobility with Gravity Models", *2026 Korean Physical Society Fall Meeting*, Oct 22, 2026.
 
 1. S. Kang, I. Hong, "Urban conditions reshape distance deterrence within a metropolitan mobility network" *12th International Conference on Computational Social Science (IC2S2)* July 30, 2026.
+
+1. S. Kang, I. Hong, "Urban conditions reshape distance deterrence within a metropolitan mobility network", *Asia-Pacific Summer School and Conference on Networks and Complex Systems (APCNCS 2026)*, Jun 11, 2026.
    
 1. S. Nasr, I. Hong, H. D. Kim, "Mapping the Environmental Exposure System Using Mixed Graphical Models", *Asia-Pacific Summer School and Conference on Networks and Complex Systems (APCNCS 2026)*, Jun 10, 2026.
 
