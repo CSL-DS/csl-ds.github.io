@@ -32,6 +32,8 @@ toc: true
 ### Posters
 -----
 1. K. Park, I. Hong, "Convergence and Divergence of Scientific Fields in a National Research Funding System: A Text Embedding Network Approach", *2026 Korean Physical Society Fall Meeting*, Oct 20-24, 2026.
+
+1. S. Han, H. Jeong, E. Lee, C. Suh, H. Song, I. Hong, H. D. Kim, “Predicting Depressive Symptoms from Occupational Stressors with Machine Learning and Its SHAP-Based Interpretation”, 2026 Fall Conference of the Korean Society for Preventive Medicine, Oct 23, 2026.
    
 1. S. Nasr, I. Hong, H. D. Kim, "Mapping the Environmental Exposure System Using Mixed Graphical Models", *2026 K-DS Conference*, Sep 11, 2026.
 
