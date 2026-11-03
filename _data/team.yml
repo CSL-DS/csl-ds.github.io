@@ -243,7 +243,18 @@
   github:
   twitter:
 
+  - name: Hyoun Bang (방효운)
+  role: Master's Student / Part-Time
+  image: assets/images/team-hy-bang.jpg
+  description: |
+    University Innovation Support Division, Office of Planning, Chonnam National University<br />
+    Research Interests: Natural Language Processing, Semantic Networks
+  orcid: 
+  email: banghu192@gmail.com
+  github:
+  twitter:
   
+
 - category: Alumni
 
 - name: Hyeongjae Lee (이형재)
