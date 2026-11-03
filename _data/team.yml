@@ -17,7 +17,7 @@
 - category: Full-time students
   
 - name: Sehyeong Kang (강세형)
-  role: PH.D. Student / Full-Time
+  role: Ph.D. Student / Full-Time
   image: assets/images/team-sh-kang.jpg
   description: |
     Research Interests: Urban Mobility, Urban environment, Complex System
@@ -91,6 +91,29 @@
   github:
   twitter:
 
+- name: Jihyung Cho (조지형)
+  role: Ph.D. Student / Part-Time
+  image: assets/images/team-jh-cho.jpg
+  description: |
+    Gwangju Youth Station Dong Myeong <br />
+    Research Interests: Youth Initiatives
+  orcid: 
+  email: hoandme82@gmail.com
+  github:
+  twitter:
+
+- name: Myoungjin Shin (신명진)
+  role: Ph.D. Student / Part-Time
+  image: assets/images/team-mj-shin.jpg
+  description: |
+    Graduated in 2025<br />
+    inDJ Corp<br />
+    Research Interests: Human Mobility, Complex networks, Reinforcement Learning
+  orcid: 
+  email: overtakedio@gmail.com
+  github: 
+  twitter: 
+
 - name: Woori Goh (고우리)
   role: Master's Student / Part-Time
   image: assets/images/team-wr-goh.jpg
@@ -133,17 +156,6 @@
   email: seonhyewon1211@gmail.com
   github: 
   twitter: 
-
-- name: Seongeun Kim (김성은)
-  role: Master's Student / Part-Time
-  image: assets/images/team-se-kim.jpeg
-  description: |
-    Korea Island Development Institude<br />
-    Research Interests: Island, Depopulation 
-  orcid: 
-  email: kimse3047@gmail.com
-  github: 
-  twitter:
 
 - name: Minji Lim (임민지)
   role: Master's Student / Part-Time
@@ -210,17 +222,6 @@
   github:
   twitter:
 
-- name: Jihyung Cho (조지형)
-  role: Master's Student / Part-Time
-  image: assets/images/team-jh-cho.jpg
-  description: |
-    Gwangju Youth Station Dong Myeong <br />
-    Research Interests: Youth Initiatives
-  orcid: 
-  email: hoandme82@gmail.com
-  github:
-  twitter:
-
 - name: Jongyun Jeong (정종윤)
   role: Master's Student / Part-Time
   image: assets/images/team-jy-jeong.jpg
@@ -279,18 +280,6 @@
   github: hjj978
   twitter: 
 
-- name: Myoungjin Shin (신명진)
-  role: Master's Student / Part-Time
-  image: assets/images/team-mj-shin.jpg
-  description: |
-    Graduated in 2025<br />
-    inDJ Corp<br />
-    Research Interests: Human Mobility, Complex networks, Reinforcement Learning
-  orcid: 
-  email: overtakedio@gmail.com
-  github: 
-  twitter: 
-
 - name: Wonwoo Cho (조원우)
   role: Master's Student / Part-Time
   image: assets/images/team_ww_cho.jpg
@@ -312,5 +301,17 @@
     Research Interests: Semantic Network, Ancient Chinese Characters 
   orcid: 
   email: mjnosky@naver.com
+  github: 
+  twitter:
+
+  - name: Seongeun Kim (김성은)
+  role: Master's Student / Part-Time
+  image: assets/images/team-se-kim.jpeg
+  description: |
+    Graduated in 2026<br />
+    Korea Island Development Institude<br />
+    Research Interests: Island, Depopulation 
+  orcid: 
+  email: kimse3047@gmail.com
   github: 
   twitter:
